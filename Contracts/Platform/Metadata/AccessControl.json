@@ -1,0 +1,18 @@
+{
+    "abi": "[{\"constant\":false,\"inputs\":[{\"name\":\"_newOwner\",\"type\":\"address\"}],\"name\":\"changeOwner\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"}]",
+    "bytecode": "606060405260008054600160a060020a03191633600160a060020a0316179055341561002a57600080fd5b60fd806100386000396000f300606060405260043610603e5763ffffffff7c0100000000000000000000000000000000000000000000000000000000600035041663a6f9dae181146043575b600080fd5b3415604d57600080fd5b606c73ffffffffffffffffffffffffffffffffffffffff60043516606e565b005b6000543373ffffffffffffffffffffffffffffffffffffffff908116911614609557600080fd5b6000805473ffffffffffffffffffffffffffffffffffffffff191673ffffffffffffffffffffffffffffffffffffffff929092169190911790555600a165627a7a72305820fa62c842a277be93b43e6710622eb392f5a1cf133739987f7ccc30ff3c6c956b0029",
+    "functionHashes": {
+        "changeOwner(address)": "a6f9dae1"
+    },
+    "gasEstimates": {
+        "creation": [
+            20461,
+            50600
+        ],
+        "external": {
+            "changeOwner(address)": 20622
+        },
+        "internal": {}
+    },
+    "runtimeBytecode": "606060405260043610603e5763ffffffff7c0100000000000000000000000000000000000000000000000000000000600035041663a6f9dae181146043575b600080fd5b3415604d57600080fd5b606c73ffffffffffffffffffffffffffffffffffffffff60043516606e565b005b6000543373ffffffffffffffffffffffffffffffffffffffff908116911614609557600080fd5b6000805473ffffffffffffffffffffffffffffffffffffffff191673ffffffffffffffffffffffffffffffffffffffff929092169190911790555600a165627a7a72305820fa62c842a277be93b43e6710622eb392f5a1cf133739987f7ccc30ff3c6c956b0029"
+}
