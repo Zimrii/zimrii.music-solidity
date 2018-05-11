@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+  </PropertyGroup>
+
+  <!--<Target Name="BuildSolTarget" AfterTargets="Build">
+    <Message Importance="High" Text="Building solidity contracts" />
+    <Exec Command="build.bat" />
+  </Target>-->
+  
+</Project>
